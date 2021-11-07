@@ -2,7 +2,7 @@
 - 👀 I’m interested in react js
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kavyapapisetty1998@gmail.co
+- 📫 How to reach me kavyapapisetty1998@gmail.com
 
 <!---
 kavyapapisetty/kavyapapisetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
